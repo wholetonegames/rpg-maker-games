@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "start": "node item_namer.js"
+    }
+}

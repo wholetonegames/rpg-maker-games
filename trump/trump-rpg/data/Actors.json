@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"trump2","characterIndex":0,"characterName":"trump2","classId":1,"equips":[0,0,0],"faceIndex":0,"faceName":"trump2","traits":[],"initialLevel":50,"maxLevel":99,"name":"Donald Trump","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"ivanka","characterIndex":0,"characterName":"ivanka","classId":2,"equips":[6,0,0],"faceIndex":0,"faceName":"ivanka","traits":[],"initialLevel":50,"maxLevel":99,"name":"Ivanka Trump","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"rogan","characterIndex":0,"characterName":"rogan","classId":3,"equips":[3,0,2],"faceIndex":0,"faceName":"rogan","traits":[],"initialLevel":50,"maxLevel":99,"name":"Joe Rogan","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"elon","characterIndex":0,"characterName":"elon","classId":4,"equips":[4,0,2],"faceIndex":0,"faceName":"elon","traits":[],"initialLevel":50,"maxLevel":99,"name":"Elon Musk","nickname":"","note":"","profile":""}
+]
